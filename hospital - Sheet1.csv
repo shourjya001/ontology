@@ -1,0 +1,35 @@
+ID,type,name,speciality_issues
+1,DOCTOR,Raghav Seth,Cardiologist
+2,DOCTOR,Preetha Gunjan,Neurologist
+3,PATIENT,Preethi Shah,Patient
+4,PATIENT,Arshdeep ,Patient
+5,DOCTOR,Damiya Singh,Dermatologist
+6,DOCTOR,Doctor,Doctor
+7,DOCTOR,Prateek Malhotra,Orthopedic Surgeon
+8,DOCTOR,Seema Shah,Opthalmologist
+9,DOCTOR,Evelina Kohl,Gynaecologist
+10,DOCTOR,Aslif Zalim,Paediatrician
+11,DOCTOR,Catherine James,Radiologist
+12,AHP,Dietician,Dietician
+13,AHP,Occupational Therapist,Occupational Therapist
+14,AHP,Pharmacist,Pharmacist
+15,AHP,Physiotherapist,Physiotherapist
+16,AHP,Speech Pathologist,Speech Pathologist
+17,PATIENT,Patient,Patient
+18,HOSPITAL,Hospital,Hospital
+19,STAFF,HouseKeeper,HouseKeeper
+20,STAFF,Lab Assistant,Lab Assistant
+21,MACHINE,MRI Scanner,MRI Scanner
+22,MACHINE,CT Scanner,CT Scanner
+23,MACHINE,Ultrasound Scanner,Ultrasound Scanner
+24,MACHINE,X Ray Scanner,X Ray Scanner
+25,NURSE,Nurse,Nurse
+26,NURSE,Charge Nurse,Charge Nurse
+27,NURSE,Divisional Nurse,Divisional Nurse
+28,NURSE,Specialist Nurse,Specialist Nurse
+29,NURSE,Student Nurse,Student Nurse
+30,NURSE,Staff Nurse,Staff Nurse
+31,STAFF,"Maintains Receipt, books appointments",Cashier
+32,STAFF,Ward Clerk,Ward Clerk
+33,DOCTOR,Ram Sharma,General Physician
+34,DOCTOR,Helen John,Dermatologist
